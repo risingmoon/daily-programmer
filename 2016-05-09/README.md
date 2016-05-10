@@ -125,3 +125,5 @@ Another tool used in graph theory is an *adjacency matrix*, which is an *N* by *
 
 Indicating that node 1 is connected to nodes 2 and 3, but nodes 2 and 3 do not connect. For a bonus, create the adjacency matrix for the challenge graph.
 
+
+Reference: [link](https://www.reddit.com/r/dailyprogrammer/comments/4ijtrt/20160509_challenge_266_easy_basic_graph/)
